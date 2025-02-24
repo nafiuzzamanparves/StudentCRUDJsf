@@ -7,6 +7,10 @@
 *.war
 *.ear
 *.nar
+*.zip
+*.tar.gz
+*.rar
+*.ctxt
 hs_err_pid*
 replay_pid*
 
